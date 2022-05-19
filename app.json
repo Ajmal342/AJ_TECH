@@ -15,8 +15,8 @@
       "index",
       "inline"
     ],
-    "website": "https://github.com/Ajmal342/AJ_TECH",
-    "repository": "https://github.com/Ajmal342/AJ_TECH",
+    "website": "https://github.com/Ajmal342/EL-DORADO",
+    "repository": "https://github.com/Ajmal342/EL-DORADO",
     "env": {
         "BOT_TOKEN": {
             "description": "Your bot token.",
